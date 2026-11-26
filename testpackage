@@ -1,1 +1,2 @@
-Test Succeeded
+#!/usr/bin/python3
+print("Test Succeeded")
